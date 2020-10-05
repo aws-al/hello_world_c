@@ -4,7 +4,7 @@
 
 int main() {
 
-	fprintf(stdout, "\n\tHello, world!!\n");
+	fprintf(stdout, "\n\tHello, world!!\n\n");
 
 	return 0;
 }
